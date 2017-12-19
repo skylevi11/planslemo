@@ -1,4 +1,3 @@
-  <script type = "text/javascript">
     // Note: Like all Javascript password scripts, this is hopelessly insecure as the user can see 
     //the valid usernames/passwords and the redirect url simply with View Source.  
     // And the user can obtain another three tries simply by refreshing the page.  
@@ -33,4 +32,3 @@
     return false;
     }
     }
-    </script>
